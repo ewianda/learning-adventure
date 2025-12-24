@@ -1,0 +1,8 @@
+
+{
+  "name": "Learning Adventure",
+  "description": "An adaptive learning app for kids to practice math and reading comprehension. The app uses Gemini to generate personalized quizzes and tracks each child's progress, with a dedicated portal for parents to monitor performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
